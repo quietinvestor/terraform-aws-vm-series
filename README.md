@@ -35,7 +35,7 @@ git clone https://github.com/quietinvestor/terraform-aws-vm-series.git
 
 ## 4. Install
 
-To install the Terraform AWS provider, while still inside the `terraform` directory, input the below commands from the command line:
+To install the Terraform AWS provider, while still inside the `terraform-aws-vm-series` directory, input the below commands from the command line:
 
 ```
 cd terraform-aws-vm-series
